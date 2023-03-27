@@ -8,7 +8,6 @@ Flutter contributor with more than 4 years of production experience in software 
 
 * 🌍  I'm based in Abu Dhabi
 * 🚀  I'm currently working on [TAG](http://www.ycombinator.com/companies/tag)
-* 🤝  I'm open to collaborating on FinTech startups
 
 ### Skills
 
