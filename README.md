@@ -9,14 +9,11 @@ Flutter contributor with more than 4 years of production experience in software 
 * 🌍  I'm based in Abu Dhabi
 * 🚀  I'm currently working on [TAG](http://www.ycombinator.com/companies/tag)
 
-### Skills
+### Open source contributions:
 
-
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
-
+* [Flutter](https://github.com/flutter/flutter/pulls/grafovdenis)
+* [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics/pulls/grafovdenis)
+* [pin_code_fields](https://github.com/adar2378/pin_code_fields/pulls/grafovdenis)
 
 ### Socials
 
