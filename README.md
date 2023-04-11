@@ -1,8 +1,6 @@
-Hi 👋 My name is Denis Grafov
-=============================
+# Hi 👋 My name is Denis Grafov
 
-Lead Flutter Engineer
----------------------
+## Lead Flutter Engineer
 
 Flutter contributor with more than 4 years of production experience in software development using Flutter. Over the past years I've build mobile apps in different areas including FinTech and PropTech. Contributed to Flutter SDK and several open-source projects. Created a batch of Flutter plugins for integrations with native platforms.
 
