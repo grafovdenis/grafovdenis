@@ -2,7 +2,7 @@
 
 ## Lead Flutter Engineer
 
-Flutter contributor with more than 4 years of production experience in software development using Flutter. Over the past years I've build mobile apps in different areas including FinTech and PropTech. Contributed to Flutter SDK and several open-source projects. Created a batch of Flutter plugins for integrations with native platforms.
+Flutter contributor with more than 4 years of production experience in software development using Flutter. Built mobile apps in different industries, mostly in FinTech. Contributed to Flutter SDK and several open-source projects, created a batch of Flutter plugins for integrations with native platforms.
 
 * 🌍  I'm based in Abu Dhabi
 * 🚀  I'm currently working on [TAG](http://www.ycombinator.com/companies/tag)
@@ -19,6 +19,14 @@ Flutter contributor with more than 4 years of production experience in software 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/grafovdenis"><img src="https://github-readme-stats.vercel.app/api?username=grafovdenis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grafovdenis's GitHub stats" /></a>
+<div float="left">
+  <a href="http://www.github.com/grafovdenis">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=grafovdenis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grafovdenis's GitHub stats" 
+    />
+  </a>
+  <a href="https://profile.codersrank.io/user/grafovdenis">
+    <img height=200
+      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=grafovdenis&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+    />
+  </a>
+</div>
