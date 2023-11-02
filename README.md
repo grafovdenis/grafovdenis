@@ -9,9 +9,9 @@ Flutter contributor with more than 4 years of production experience in software 
 
 ### Open source contributions:
 
-* [Flutter](https://github.com/flutter/flutter/pulls/grafovdenis)
-* [Dart Code Metrics](https://github.com/dart-code-checker/dart-code-metrics/pulls/grafovdenis)
-* [pin_code_fields](https://github.com/adar2378/pin_code_fields/pulls/grafovdenis)
+* [Flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agrafovdenis+is%3Aclosed)
+* Dart Code Metrics: [pulls](https://github.com/dart-code-checker/dart-code-metrics/pulls?q=is%3Apr+grafovdenis+is%3Aclosed) and [issues](https://github.com/dart-code-checker/dart-code-metrics/issues?q=is%3Aissue+author%3Agrafovdenis+is%3Aclosed)
+* [pin_code_fields](https://github.com/adar2378/pin_code_fields/pulls?q=is%3Apr+author%3Agrafovdenis+is%3Aclosed)
 
 ### Socials
 
