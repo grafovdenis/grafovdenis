@@ -2,7 +2,10 @@
 
 ## Flutter Engineer
 
-Flutter contributor with more than 4 years of production experience in software development using Flutter. Built mobile apps in different industries, mostly in FinTech. Contributed to Flutter SDK and several open-source projects, created a batch of Flutter plugins for integrations with native platforms.
+Software Engineer and an open-source projects contributor with 5 years of production experience in software development using Flutter.
+Over the past years I've built mobile apps in different areas, mostly in FinTech.
+Contributed to Flutter SDK and several open-source projects.
+Created a batch of Flutter plugins for native platforms.
 
 * 🌍  I'm based in Abu Dhabi
 * 🚀  I'm currently working on [TAG](http://www.ycombinator.com/companies/tag)
