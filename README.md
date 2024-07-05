@@ -14,17 +14,3 @@ Software Engineer with 5 years of experience in software development using Flutt
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/grafovdenis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/denis-grafov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<div float="left">
-  <a href="http://www.github.com/grafovdenis">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=grafovdenis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grafovdenis's GitHub stats" 
-    />
-  </a>
-  <a href="https://profile.codersrank.io/user/grafovdenis">
-    <img height=200
-      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=grafovdenis&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-    />
-  </a>
-</div>
