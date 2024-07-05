@@ -4,8 +4,6 @@
 
 Software Engineer with 5 years of experience in software development using Flutter. Built mobile apps in different areas, mostly in FinTech. Contributed to Flutter SDK and several open-source projects. Created a batch of Flutter plugins for native platforms. Led a remote team of 5 engineers.
 
-* 🌍  I'm based in Düsseldorf
-
 ### Open source contributions:
 
 * [Flutter](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Agrafovdenis+is%3Aclosed)
